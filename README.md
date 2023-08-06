@@ -9,7 +9,7 @@
 This project offers a comprehensive visual analysis and prediction of the S&P 500 stock index, which represents the performance of 500 large-cap publicly traded US companies. The analysis commenced with a visual exploration using the MACD indicator. Advanced predictive models, including ARIMA, Prophet, and KNN, were applied to forecast the stock index over a 30-day horizon.
 
 ## Key Findings
-- Out of the models tested, ARIMA(3,1,2) demonstrated the best forecasting capabilities based on RMSE values.
+- Out of the models tested, ARIMA(0,1,1) demonstrated the best forecasting capabilities based on RMSE values.
 - The research provided valuable insights into the behavior of the S&P 500 index, aiding investors and analysts in making informed decisions.
 
 ## Data Source
